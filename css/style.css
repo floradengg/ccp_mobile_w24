@@ -29,6 +29,10 @@ li {
     list-style-position: inside;
  }
 
+ img {
+    width: 100%;
+ }
+
 /*-----------------------------------------------------------------------*/
 /* for navigation bar */
 .links{
